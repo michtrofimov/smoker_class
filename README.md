@@ -70,9 +70,7 @@ Lung cancer is the leading cause of cancer-related deaths worldwide, with smokin
    cd smoker_class
    ```
 2. **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
+    Install with any environment manager from `pyproject.toml`
 
 3. **Run the Notebooks**:
     Open the Jupyter notebooks in the notebooks/ directory to see data preprocessing steps, model training, and evaluation.
