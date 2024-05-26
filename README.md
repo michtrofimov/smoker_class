@@ -45,7 +45,7 @@ Lung cancer is the leading cause of cancer-related deaths worldwide, with smokin
   - Assessed pathway activities with `PROGENY`, resulting in 14 new features.
   - Train F1: 0.91, Test F1: 0.74.
 
-<img src="/home/m_trofimov/BI/project/figures/Screenshot 2024-05-26 at 21.10.40.png" alt="Project Overview" width="600">
+<img src="figures/Screenshot 2024-05-26 at 21.10.40.png" alt="Project Overview" width="600">
 
 
 ### Multiclassification
