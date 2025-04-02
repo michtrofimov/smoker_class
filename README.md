@@ -35,7 +35,7 @@ Lung cancer is the leading cause of cancer-related deaths worldwide, with smokin
 
 - **Initial Model Assessment**:
   - Performance estimation using `pycaret` on the training dataset (396 samples, 3000 genes).
-  - Best model: LightGBM with F1 score ~ 0.75.
+  - Best model: LightGBM with Train F1 score ~ 0.75.
   
 - **Hyperparameter Tuning**:
   - Hyper-tuned LightGBM using `Optuna`.
